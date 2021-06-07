@@ -1,3 +1,15 @@
+/**
+ *Submitted for verification at BscScan.com on 2021-06-06
+*/
+
+/**
+ 
+ #HulkDoge is a Meme Token of the Binance Smart Chain ecosystem, a cryptocurrency with a focus on Decentralized Finance and NFT.
+ For every transaction in network (buy or sell) 1% of all transactions are distributed to holders.
+ 
+ 
+*/
+
 // SPDX-License-Identifier: Unlicensed
 
 pragma solidity ^0.6.12;
@@ -432,7 +444,7 @@ contract HulkDoge is Context, IERC20, Ownable {
     uint256 private _rTotal = (MAX - (MAX % _tTotal));
     uint256 private _tFeeTotal;
 
-    string private _name = 'HulkDoge';
+    string private _name = 'Hulkdoge';
     string private _symbol = 'HULKDOGE';
     uint8 private _decimals = 9;
     
